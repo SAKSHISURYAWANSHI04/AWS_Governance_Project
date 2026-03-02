@@ -51,10 +51,7 @@ This project demonstrates how to implement **centralized governance** across mul
 
 **SCP JSON files:**
 
-* `DenyLargeEC2.json`
-* `DenyCloudTrailDelete.json`
-* `RestrictRegions.json`
-
+![SCPs Attached](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/30e58eb40f9fac08d298ea8ab3b6e9fa29b03fef/SCPs_attached.png.png)
 **Note:**
 
 * FullAWSAccess (AWS managed) remains attached to all accounts.
