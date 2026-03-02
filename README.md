@@ -54,6 +54,11 @@ This project demonstrates how to implement **centralized governance** across mul
 ![SCPs Attached](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/30e58eb40f9fac08d298ea8ab3b6e9fa29b03fef/SCPs_attached.png.png)
 
 ![Deny CloudTrail Delete](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/e093fcc0fe985008454c86bb8856ca02581543bc/DenyCloudTrailDelete.png.png)
+
+![Denied Large EC2 in Dev](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/102ff3cf755006597d49c4b4e9d20547c65352f2/DenyLargeEC2InDev.png.png)
+
+![Restrict Regions](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/102ff3cf755006597d49c4b4e9d20547c65352f2/RestrictRegions.png.png)
+
 **Note:**
 
 * FullAWSAccess (AWS managed) remains attached to all accounts.
