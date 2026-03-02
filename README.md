@@ -68,28 +68,17 @@ This project demonstrates how to implement **centralized governance** across mul
 
 ## **4. Validation & Proof of Governance**
 
-### **Allowed Actions**
-
-* **t3.micro** instance creation is allowed (small instance type)
-* Screenshot optional: `Allowed_t3_micro.png`
 
 ### **Denied Actions**
 
 * Launch **m5.large EC2 instance** → Access Denied ✅ 
 * ![Denied m5.large](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/0d4710ccda8a21300b1947054f6893b088f26a39/Denied_m5_large.png.png)
-* 
+  
 * Stop or delete **CloudTrail** → Access Denied ✅
 * ![Denied CloudTrail](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/134d779f2e20611807557160c7887f1deb2d0d4f/Denied_CloudTrail.png.png)
-* 
+ 
 * Create **Key Pair** → Access Denied ✅ 
 * ![Denied Create KeyPair](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/21b719af05833449b4259a9869122cce3ed9e2cd/Denied_CreateKeyPair.png.png)
-* 
-* Launch resources in **non-approved regions** → Access Denied ✅ (`Restricted_Region.png`)
-
-### **CloudTrail Event History Proof**
-
-* Shows AccessDeniedException for restricted actions
-* Screenshot: `CloudTrail_History.png`
 
 ---
 
