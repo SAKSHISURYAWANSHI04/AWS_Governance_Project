@@ -33,8 +33,7 @@ This project demonstrates how to implement **centralized governance** across mul
 * **Prod OU** → prod-account
 
 **Screenshots:**
-
-* `OU_structure.png`
+![OU Structure](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/cb4b693498aafdfaa611c08d3f4e0bfda7e74d6b/OU_structure.png.png)
 
 **Notes:**
 
