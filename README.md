@@ -110,17 +110,12 @@ This project demonstrates how to implement **centralized governance** across mul
 
 ## **8. Deliverables**
 
-1. **Screenshots:**
+ **Screenshots:**
 
    * OU structure
    * Denied actions (m5.large, CloudTrail, Key Pair)
    * CloudTrail event history
 
-2. **SCP JSON files:**
-
-   * `DenyLargeEC2.json`
-   * `DenyCloudTrailDelete.json`
-   * `RestrictRegions.json`
 
 ✅ Project Completed Successfully
 
