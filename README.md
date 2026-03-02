@@ -4,7 +4,7 @@
 ## **Project Title**
 
 **Multi-Account AWS Governance Setup using AWS Organizations and Service Control Policies (SCPs)**
--![Uploading Architecture.png.png…]()
+-![Uploading Architecture.png.png…](https://github.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/blob/cb4b693498aafdfaa611c08d3f4e0bfda7e74d6b/Architecture.png.png)
 
 ---
 
