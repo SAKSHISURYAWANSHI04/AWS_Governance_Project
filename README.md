@@ -74,7 +74,9 @@ This project demonstrates how to implement **centralized governance** across mul
 * Stop or delete **CloudTrail** → Access Denied ✅
 * ![Denied CloudTrail](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/134d779f2e20611807557160c7887f1deb2d0d4f/Denied_CloudTrail.png.png)
 * 
-* Create **Key Pair** → Access Denied ✅ (`Denied_CreateKeyPair.png`)
+* Create **Key Pair** → Access Denied ✅ 
+* ![Denied Create KeyPair](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/21b719af05833449b4259a9869122cce3ed9e2cd/Denied_CreateKeyPair.png.png)
+* 
 * Launch resources in **non-approved regions** → Access Denied ✅ (`Restricted_Region.png`)
 
 ### **CloudTrail Event History Proof**
