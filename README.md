@@ -70,7 +70,10 @@ This project demonstrates how to implement **centralized governance** across mul
 
 * Launch **m5.large EC2 instance** → Access Denied ✅ 
 * ![Denied m5.large](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/0d4710ccda8a21300b1947054f6893b088f26a39/Denied_m5_large.png.png)
-* Stop or delete **CloudTrail** → Access Denied ✅ (`Denied_CloudTrail.png`)
+* 
+* Stop or delete **CloudTrail** → Access Denied ✅
+* ![Denied CloudTrail](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/134d779f2e20611807557160c7887f1deb2d0d4f/Denied_CloudTrail.png.png)
+* 
 * Create **Key Pair** → Access Denied ✅ (`Denied_CreateKeyPair.png`)
 * Launch resources in **non-approved regions** → Access Denied ✅ (`Restricted_Region.png`)
 
