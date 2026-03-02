@@ -52,6 +52,8 @@ This project demonstrates how to implement **centralized governance** across mul
 **SCP JSON files:**
 
 ![SCPs Attached](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/30e58eb40f9fac08d298ea8ab3b6e9fa29b03fef/SCPs_attached.png.png)
+
+![Deny CloudTrail Delete](https://raw.githubusercontent.com/SAKSHISURYAWANSHI04/AWS_Governance_Project/e093fcc0fe985008454c86bb8856ca02581543bc/DenyCloudTrailDelete.png.png)
 **Note:**
 
 * FullAWSAccess (AWS managed) remains attached to all accounts.
